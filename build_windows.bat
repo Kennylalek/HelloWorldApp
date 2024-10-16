@@ -1,1 +1,1 @@
-cd "c:\Users\Kenny_lalek\Desktop\HelloWorldApp\src\" && javac HelloWorldApp.java && java HelloWorldApp
+cd "src\" && javac HelloWorldApp.java && java HelloWorldApp

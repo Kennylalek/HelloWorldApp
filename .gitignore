@@ -5,4 +5,4 @@
 # Ignore JAR files in lib directory
 /lib/
 **/*.jar
-count.txt
+/src/count.txt
