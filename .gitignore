@@ -3,4 +3,7 @@
 
 /lib/
 **/*.jar
-**/count.txt
+
+*.txt
+**/*.txt
+src/count.txt
